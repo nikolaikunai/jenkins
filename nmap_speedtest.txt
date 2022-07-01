@@ -1,0 +1,33 @@
+# Nmap 7.80 scan initiated Fri Jul  1 13:51:37 2022 as: nmap -sP -n -oN ./nmap_speedtest.txt 192.168.10.45-60
+Nmap scan report for 192.168.10.45
+Host is up (0.00067s latency).
+MAC Address: E0:3F:49:52:31:F7 (Asustek Computer)
+Nmap scan report for 192.168.10.46
+Host is up (0.00067s latency).
+MAC Address: 18:C0:4D:7D:AF:5B (Unknown)
+Nmap scan report for 192.168.10.47
+Host is up (0.00090s latency).
+MAC Address: 80:5E:C0:C7:C3:F9 (Yealink(xiamen) Network Technology)
+Nmap scan report for 192.168.10.54
+Host is up (0.00079s latency).
+MAC Address: 10:7B:44:92:C5:02 (Asustek Computer)
+Nmap scan report for 192.168.10.55
+Host is up (0.0015s latency).
+MAC Address: BC:EE:7B:9F:68:CE (Asustek Computer)
+Nmap scan report for 192.168.10.58
+Host is up (0.00070s latency).
+MAC Address: B4:2E:99:CC:46:6E (Giga-byte Technology)
+Nmap scan report for 192.168.10.59
+Host is up (0.00068s latency).
+MAC Address: 18:C0:4D:F6:85:3C (Unknown)
+# Nmap done at Fri Jul  1 13:51:37 2022 -- 16 IP addresses (7 hosts up) scanned in 0.29 seconds
+----------result of speedtest----------
+Retrieving speedtest.net configuration...
+Testing from A1 Belarus (213.184.248.224)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Amigo.Minsk (Minsk) [0.29 km]: 3.644 ms
+Testing download speed................................................................................
+Download: 23.28 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 82.00 Mbit/s
