@@ -1,18 +1,15 @@
-# Nmap 7.80 scan initiated Fri Jul  1 13:56:13 2022 as: nmap -sP -n -oN ./nmap_speedtest.txt 192.168.10.55-65
-Nmap scan report for 192.168.10.55
-Host is up (0.00047s latency).
-MAC Address: BC:EE:7B:9F:68:CE (Asustek Computer)
+# Nmap 7.80 scan initiated Fri Jul  1 14:00:39 2022 as: nmap -sP -n -oN ./nmap_speedtest.txt 192.168.10.55-65
 Nmap scan report for 192.168.10.62
-Host is up (0.00065s latency).
+Host is up (0.00067s latency).
 MAC Address: 4C:ED:FB:BF:96:47 (Asustek Computer)
-# Nmap done at Fri Jul  1 13:56:14 2022 -- 11 IP addresses (2 hosts up) scanned in 0.29 seconds
+# Nmap done at Fri Jul  1 14:00:39 2022 -- 11 IP addresses (1 host up) scanned in 0.31 seconds
 ----------result of speedtest----------
 Retrieving speedtest.net configuration...
 Testing from A1 Belarus (213.184.248.224)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by JLLC "COSMOS TV" (Minsk) [0.29 km]: 7.773 ms
+Hosted by beCloud (Minsk) [0.29 km]: 3.472 ms
 Testing download speed................................................................................
-Download: 41.06 Mbit/s
+Download: 31.85 Mbit/s
 Testing upload speed......................................................................................................
-Upload: 80.80 Mbit/s
+Upload: 82.57 Mbit/s
