@@ -1,15 +1,12 @@
-# Nmap 7.80 scan initiated Fri Jul  1 14:00:39 2022 as: nmap -sP -n -oN ./nmap_speedtest.txt 192.168.10.55-65
-Nmap scan report for 192.168.10.62
-Host is up (0.00067s latency).
-MAC Address: 4C:ED:FB:BF:96:47 (Asustek Computer)
-# Nmap done at Fri Jul  1 14:00:39 2022 -- 11 IP addresses (1 host up) scanned in 0.31 seconds
+# Nmap 7.80 scan initiated Sun Jul  3 02:00:13 2022 as: nmap -sP -n -oN ./nmap_speedtest.txt 192.168.10.55-65
+# Nmap done at Sun Jul  3 02:00:14 2022 -- 11 IP addresses (0 hosts up) scanned in 0.88 seconds
 ----------result of speedtest----------
 Retrieving speedtest.net configuration...
 Testing from A1 Belarus (213.184.248.224)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by beCloud (Minsk) [0.29 km]: 3.472 ms
+Hosted by OJSC "Minsk Television Information Networks" (Minsk) [0.29 km]: 6.603 ms
 Testing download speed................................................................................
-Download: 31.85 Mbit/s
+Download: 48.84 Mbit/s
 Testing upload speed......................................................................................................
-Upload: 82.57 Mbit/s
+Upload: 83.48 Mbit/s
